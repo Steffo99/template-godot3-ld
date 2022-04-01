@@ -30,7 +30,6 @@ _unknown tagline_
 	- [Git Large File Storage extension](https://git-lfs.github.com/)
 - [GitHub](https://github.com/)
 	- [GitHub Actions](https://github.com/features/actions)
-		- [`Steffo99/actions-semver` action](https://github.com/Steffo99/actions-semver)
 		- [`abarichello/godot-ci` action](https://github.com/marketplace/actions/godot-ci)
 
 ## Development
